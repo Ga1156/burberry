@@ -1,1 +1,365 @@
-{}
+{
+    "Login_Data": [
+      {
+        "email": "g@gmail.com",
+        "password": "4444",
+        "id": 1
+      },
+      {
+        "email": "g@gmail.com",
+        "password": "4444",
+        "id": 2
+      }
+    ],
+    "NEW-IN": [
+      {
+        "id": 1,
+        "title": "Check Panel Cotton Gabardine Trench Coat",
+        "price": 7299,
+        "type": "Coat",
+        "color": "palegolden",
+        "des": "A trench coat crafted from bespoke cotton gabardine, developed for its crease-resistant structure and woven at the Burberry Mill in Yorkshire. Cut to a regular fit, the design is lined in our iconic Burberry Check.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/6A9059F2-BBDC-4B6C-81FE-A934BE88A274?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 2,
+        "title": "Button-down Collar Check Cotton Shirt",
+        "price": 3999,
+        "type": "shoe",
+        "color": "black",
+        "des": "A shirt in cotton twill, cut to a regular fit and animated with our Burberry Check. The style is finished with a neat button-down collar and a tonal embroidered logo.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/E71D5DF5-F690-40A3-9269-436FDC444EF0?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 3,
+        "title": "Fire bolt",
+        "price": 4499,
+        "type": "Coat",
+        "color": "palegolden",
+        "des": "Just ₹1,499",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/6ED93DFC-1C5E-46C3-8E33-FE11E5F074EC?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 4,
+        "title": "Check Cotton Medium London Tote Bag",
+        "price": 759,
+        "type": "bag",
+        "color": "palegolden",
+        "des": "For All Top Models",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/D7EDCCF7-4397-4675-BB84-322C1B9BFD92?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 5,
+        "title": "Montage Check Wool Cashmere Scarf",
+        "price": 1000,
+        "type": "Scaf",
+        "color": "palegolden",
+        "des": "An Italian-made scarf in a lofty wool-cashmere weave for texture and warmth, animated with the Thomas Burberry Monogram alongside star and heart graphics.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/07544E04-138C-425F-89CA-B11D1136C060?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 6,
+        "title": "Check Wool Cashmere Jacquard Cardigan",
+        "price": 1299,
+        "type": "Coat",
+        "color": "palegolden",
+        "des": "A cosy wool-cashmere cardigan jacquard-woven with our Exaggerated Check. The design is cut to a relaxed fit and finished with patch pockets and chunky rib-knit trims.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/8AF8CAA7-E511-433E-8D63-49ABDC629139?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 7,
+        "title": "Quilted Leather Lola Clutch",
+        "price": 599,
+        "type": "bag",
+        "color": "black",
+        "des": "A softly structured, quilted bag crafted from Italian-tanned leather. The compact style is punctuated with a gold-plated Thomas Burberry Monogram. Carry as a clutch or style on the shoulder with the slim chain strap.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/DB721713-E620-41A6-9CF6-C3504A5F5B82?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 8,
+        "title": "Embroidered Oak Leaf Crest Cotton T-shirt",
+        "price": 699,
+        "type": "ti-shirt",
+        "color": "white",
+        "des": "A cotton T-shirt embroidered with a tonal oak leaf crest and logo – a reconstructed version of our archive emblem.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/6AAED315-3559-47E2-BF19-05F400419530?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 9,
+        "title": "Prorsum Label Cotton T-shirt Dress",
+        "price": 999,
+        "type": "ti-shirt",
+        "color": "peru",
+        "des": "A T-shirt dress in cotton, featuring an appliquéd patch highlighted with our logo and the Equestrian Knight Design – inspired by labels found in archive Burberry pieces. The rider’s banner reads ‘Prorsum’, a Latin term which translates to ‘forwards’.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/CD97F0B6-5D81-440A-95C0-CBD94E33A43E?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      }
+    ],
+    "Womens": [
+      {
+        "id": 10,
+        "title": "Long Chelsea Heritage Trench Coat",
+        "price": 5999,
+        "size": "l",
+        "type": "Coat",
+        "material": "nyloan",
+        "color": "palegolden",
+        "des": "Our signature trench streamlined for a closer fit in shower-resistant gabardine.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/D7B67608-8819-414D-8EA3-D592F0B854F4?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 11,
+        "title": "Mid-length Chelsea Heritage Trench Coat",
+        "price": 3999,
+        "material": "cotton",
+        "type": "Coat",
+        "size": "m",
+        "color": "black",
+        "des": "A shirt in cotton twill, cut to a regular fit and animated with our Burberry Check. The style is finished with a neat button-down collar and a tonal embroidered logo.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/4DC42177-3540-44BB-A62B-2AFA83E6B4CE?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 12,
+        "title": "Fire bolt",
+        "price": 9499,
+        "material": "leather",
+        "type": "Coat",
+        "size": "xl",
+        "color": "black",
+        "des": "Our signature trench streamlined for a closer fit in shower-resistant gabardine.J ₹1,499",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/06DBC3B5-8F65-4A6D-B24C-1CEE8BD2E8DA?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 13,
+        "title": "Detachable Hood Tri-layer Gabardine Parka",
+        "price": 3759,
+        "size": "l",
+        "type": "Coat",
+        "material": "cotton",
+        "color": "palegolden",
+        "des": "An oversized parka with a detachable hood in cotton gabardine, woven at the Burberry Mill in Yorkshire. The outer fabric is bonded to jersey via an inner membrane to enhance its lightweight, breathable properties. Part of our Modern Rainwear collection, the interior features sealed seams and an appliquéd label highlighted with our logo and the Equestrian Knight Design.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/A4ECB289-E92F-4676-B65A-D180FD4FBBB6?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 14,
+        "title": "Wool Tailored Coat",
+        "price": 1000,
+        "material": "leather",
+        "type": "Scaf",
+        "size": "l",
+        "color": "gray",
+        "des": "A single-breasted silhouette tailored from Italian-woven wool, cut to a regular fit.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/FF6AE753-4DF9-413A-BE88-4DE2AD60C3B4?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 15,
+        "title": "Check Wool Hooded Duffle Coat",
+        "price": 1299,
+        "material": "leather",
+        "type": "Coat",
+        "size": "xxl",
+        "color": "red",
+        "des": "A hooded duffle coat in Italian-woven wool, highlighted with our Exaggerated Check and contrasting stripes. The relaxed silhouette is styled with patch pockets.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/2E59BC00-1958-437A-9D26-9B4EE97995EA?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 16,
+        "title": "Quilted Leather Lola Clutch",
+        "price": 1599,
+        "material": "velvate",
+        "type": "bag",
+        "color": "palegolden",
+        "size": "m",
+        "des": "A softly structured, quilted bag crafted from Italian-tanned leather. The compact style is punctuated with a gold-plated Thomas Burberry Monogram. Carry as a clutch or style on the shoulder with the slim chain strap.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/A5FBF0AD-EFFA-43C7-835F-F70D3EAFDE31?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 17,
+        "title": "Embroidered Oak Leaf Crest Cotton T-shirt",
+        "price": 6699,
+        "material": "nyloan",
+        "size": "xl",
+        "type": "ti-shirt",
+        "color": "choclate",
+        "des": "A trench coat crafted from bespoke cotton gabardine, developed for its crease-resistant structure and woven at the Burberry Mill in Yorkshire. The style is cut to a regular fit and panelled in our Burberry Check.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/8133751D-DFEE-4EDD-958C-028F2905B59D?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 18,
+        "title": "Cotton Gabardine Trench Coat",
+        "price": 999,
+        "material": "velvate",
+        "size": "m",
+        "type": "ti-shirt",
+        "color": "pink",
+        "des": "A trench coat in bespoke cotton gabardine, developed for its crease-resistant structure and woven at the Burberry Mill in Yorkshire. The regular-fit silhouette is lined in a contrasting colour. The design is part of the Burberry Spring/Summer 2023 collection.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/23C387EF-4990-454C-929F-623CF2AD985F?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 19,
+        "title": "Double-faced Cashmere Coat",
+        "price": 3999,
+        "material": "velvate",
+        "size": "l",
+        "type": "ti-shirt",
+        "color": "red",
+        "des": "A clean-lined silhouette tailored to a relaxed fit in double-faced cashmere, styled with exaggerated side splits. Cinch the waist using the self-tie belt.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/1F930507-5A60-44F4-9B92-8173E8FC26E2?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 20,
+        "title": "Detachable Hood Down-filled Coat",
+        "price": 999,
+        "material": "leather",
+        "size": "xl",
+        "type": "ti-shirt",
+        "color": "pink",
+        "des": "A down-filled coat inspired by our iconic trench and cut to a slim fit. The double-breasted design features a detachable drawcord hood, Vintage check undercollar and belted cuffs.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/0A86F49D-7CB9-45BD-996B-480715E54F62?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 21,
+        "title": "Contrast Hood Nylon Mid-length Puffer Coat",
+        "price": 6999,
+        "size": "xxl",
+        "type": "ti-shirt",
+        "color": "black",
+        "material": "nyloan",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/FBD3C409-CB23-4053-B3F2-6892E9D9DDAF?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      }
+    ],
+    "Mens": [
+      {
+        "id": 23,
+        "title": "Short Camden Heritage Car Coat",
+        "price": 11199,
+        "size": "m",
+        "type": "ti-shirt",
+        "color": "navyblue",
+        "material": "velvate",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/7946113A-DE6A-4574-9DC4-06E49514AFE7?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 24,
+        "title": "Embroidered Oak Leaf Crest Wool Sweater",
+        "price": 3999,
+        "size": "xl",
+        "type": "ti-shirt",
+        "color": "blue",
+        "material": "nyloan",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/AE87C6D2-3C21-422B-89EB-630DDD40FC9A?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 25,
+        "title": "EKD Intarsia Wool Cashmere Cardigan",
+        "price": 6999,
+        "size": "m",
+        "type": "ti-shirt",
+        "color": "black",
+        "material": "nyloan",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/8EB3972D-4453-4A7D-92A1-83D581B8B3B5?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 26,
+        "title": "Contrast Hood Nylon Mid-length Puffer Coat",
+        "price": 6999,
+        "size": "xxl",
+        "type": "ti-shirt",
+        "color": "black",
+        "material": "velvate",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/FBD3C409-CB23-4053-B3F2-6892E9D9DDAF?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 27,
+        "title": "Contrast Hood Nylon Mid-length Puffer Coat",
+        "price": 2999,
+        "size": "m",
+        "type": "ti-shirt",
+        "color": "palegolden",
+        "material": "leather",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/50508ED1-575E-41FD-B257-733CEE1D8D24?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 28,
+        "title": "Check Silk Wool Jacquard Polo Shirt",
+        "price": 6999,
+        "size": "l",
+        "type": "ti-shirt",
+        "color": "marigold",
+        "material": "cotton",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/8871385F-21CE-418D-9A72-A38FB725889C?$BBY_V2_ML_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 29,
+        "title": "Prorsum Label Cotton Hoodie",
+        "price": 6999,
+        "size": "xl",
+        "type": "ti-shirt",
+        "color": "palegolden",
+        "material": "nyloan",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/2765C113-4741-440B-B59B-DB8BAB6647AD?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 30,
+        "title": "Contrast Hood Nylon Mid-length Puffer Coat",
+        "price": 6999,
+        "size": "l",
+        "type": "ti-shirt",
+        "color": "black",
+        "material": "velvate",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/4054AE4B-AC6A-4DC5-BFF1-087A441180AD?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 31,
+        "title": "Embroidered Oak Leaf Crest Cotton Piqué Polo Shirt",
+        "price": 6999,
+        "size": "xxl",
+        "type": "ti-shirt",
+        "color": "white",
+        "material": "cotton",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/ABEF6C2C-61E2-4A88-9DB3-B4EC845524A8?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "id": 32,
+        "title": "Prorsum Label Cotton T-shirt",
+        "price": 699,
+        "size": "xl",
+        "type": "ti-shirt",
+        "color": "white",
+        "material": "cotton",
+        "des": "A mid-length puffer coat in high-shine nylon styled with a contrasting hood and outlined logo print. The down-filled silhouette is cut to a slim fit and features a webbed belt with a polished buckle – a nod to the hardware on our Olympia bag. The main material of this product is made with at least 70% recycled content.",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/C2A81EAD-47BE-4504-903A-AE7544BFA728?$BBY_V2_SL_1x1$&wid=1251&hei=1251"
+      },
+      {
+        "title": "New",
+        "price": "1000",
+        "des": "shvfscscbsjbcj",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/8EB3972D-4453-4A7D-92A1-83D581B8B3B5?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+        "id": 33
+      },
+      {
+        "title": "NEW PRODUCT",
+        "price": "1000",
+        "des": "njffnsibbs",
+        "img": "https://assets.burberry.com/is/image/Burberryltd/2765C113-4741-440B-B59B-DB8BAB6647AD?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+        "id": 34
+      }
+    ],
+    "CART": [
+      {
+        "title": "Contrast Hood Nylon Mid-length Puffer Coat",
+        "price": 6999,
+        "img": "https://assets.burberry.com/is/image/Burberryltd/ED984BE6-C772-4A6B-9FD1-8236FF7FA565?$BBY_V2_ML_1x1$&wid=1251&hei=1251",
+        "id": 2
+      }
+    ]
+  }
